@@ -9,5 +9,4 @@
         <a href="https://www.linkedin.com/in/henrique-venturini-09427128b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     
-- 🔭 hoje estou estudando programação front-end
-- 😄 Pronomes: ele/dele
+- 🔭 hoje estou estudando java
