@@ -2,3 +2,4 @@
 ### Atualmente eu estudo programação Back-End com java
 
 ## Status🤖
+![Stats](./profile/stats.svg)
